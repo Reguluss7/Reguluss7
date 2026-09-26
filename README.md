@@ -46,12 +46,3 @@ AI-powered lead scoring and management system.
 ### 🔹 Smart Restaurant
 Backend system for restaurant management.
 
-## 📊 GitHub
-
-[GitHub statistics...]
-
-## 📫 Contact
-
-- GitHub: ...
-- LinkedIn: ...
-- Email: ...
